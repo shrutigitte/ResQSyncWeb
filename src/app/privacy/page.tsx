@@ -3,13 +3,13 @@ export default function privacy() {
     return(
         <>
             <div>
-                <p className={"my-14 px-40 text-5xl font-bold"}>Privacy Policy</p>
+                <p className={"my-14 px-40 min-[320px]:px-20 text-5xl font-bold"}>Privacy Policy</p>
             </div>
-            <div className={"px-40"}>
+            <div className={"px-40 min-[320px]:px-20"}>
                 <h4 className={"text-xl font-medium"}>Privacy Policy for ResQSync App</h4>
                 <p className={"my-10"}>Last Updated:15 October 2023</p>
             </div>
-            <div className={"px-40"}>
+            <div className={"px-40 min-[320px]:px-20"}>
                 <p> Welcome to ResQSync! ResQSync is an <span className={"font-bold"}>Open Source</span> mobile application developed with a strong
                     commitment to user privacy and data security. We believe in <span className={"font-bold"}>Transparency</span> and have created this Privacy Policy to help you understand how we collect, use, and safeguard your personal information. By using ResQSync,
                     you agree to the terms outlined in this Privacy Policy. <br/> <br/>
